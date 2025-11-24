@@ -76,11 +76,13 @@ Aplicación: Podríamos desarrollar una app de RA para que los ciudadanos vean e
   
 - ¿Cuál genera mayor impacto sostenible?
   Probablemente IoT + Big Data + IA juntas, porque permiten optimizar recursos (agua, movilidad), reducir emisiones y evitar desperdicios.
+  
 - ¿Qué combinación sería más eficiente para la empresa?
   Una combinación de IoT + Cloud + Big Data + IA, con una capa de ciberseguridad para proteger todo, sería muy potente. Si además añadimos   RA como interfaz para los ciudadanos, se mejora mucho la experiencia.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
 https://www.telefonica.com/es/sala-comunicacion/prensa/global-omnium-telefonica-tech-se-unen-google-cloud-revolucionar-sector-agua-ia/?utm_source=chatgpt.com
 https://urbiotica.com/us/success-stories/?utm_source=chatgpt.com
 https://smartcitycluster.org/project/urbiotica/?utm_source=chatgpt.com
@@ -88,6 +90,7 @@ https://www.iagua.es/noticias/global-omnium/global-omnium-y-telefonica-tech-se-u
 https://forbes.es/listas/229627/lista-forbes-una-empresa-espanola-entre-las-50-que-mejor-usan-blockchain-en-el-mundo/?utm_source=chatgpt.com
 https://www.kaspersky.es/about/press-releases/casi-la-mitad-de-las-empresas-utilizan-ia-e-iot-en-sus-negocios?utm_source=chatgpt.com
 https://arxiv.org/abs/1810.07829?utm_source=chatgpt.com
+
 
 
 
