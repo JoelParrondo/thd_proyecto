@@ -39,23 +39,55 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-- Caso IA:
-- Caso IoT:
-- Caso Big Data:
-- Caso Cloud:
-- Caso Blockchain:
-- Caso Ciberseguridad:
-- Caso RA/RV:
+- Caso IA: Global Omnium + Telefónica Tech + Google Cloud han implementado IA para analizar vídeos submarinos y monitorizar praderas de posidonia. 
+Telefónica
+Aplicación en nuestra empresa: Podríamos usar IA para monitorizar zonas naturales urbanas (ríos, parques) y alertar sobre degradación o amenazas ecológicas.
+
+- Caso IoT: Urbiotica tiene sensores NB‑IoT y magnéticos para plazas de aparcamiento, que le permiten saber en tiempo real si hay coche o no. 
+Urbiotica
+Aplicación: Instalar sensores en la ciudad para gestionar el aparcamiento, reducir tráfico y emisiones, y ofrecer a los ciudadanos una App de “plaza inteligente”.
+
+-Caso Big Data: En Urbiotica, usan la analítica de datos para gestionar la movilidad urbana y tomar decisiones sobre cómo se usan las plazas de aparcamiento. 
+SmartCityCluster
+Aplicación: Recoger datos históricos de uso de aparcamiento + datos en tiempo real para predecir demanda, ajustar precios o planificar nuevas zonas.
+
+Caso Cloud: En la alianza Global Omnium / Telefónica / Google Cloud, migran su gestión hídrica a la nube, ganando escalabilidad y capacidad de análisis. 
+iAgua
+
+Aplicación: Nuestra plataforma de datos urbanos podría correr sobre cloud para procesar toda la información de sensores con flexibilidad, mantener la infraestructura ligera y escalar según demanda.
+
+-Caso Blockchain: Si bien no hay un caso exacto de “ciudad inteligente + blockchain + parking/agua” citado, podemos inspirarnos en que Repsol desarrolla una “wallet” de identidad digital con blockchain. 
+Forbes España
+Aplicación: Crear una identidad digital para ciudadanos (“ID ciudadana”) basada en blockchain para acceder a servicios de SmartCity (parking, agua, transporte), con control de privacidad.
+
+-Caso Ciberseguridad: Según Kaspersky, muchas empresas han adoptado IA e IoT, pero también destacan la necesidad de asegurar esos entornos. 
+Kaspersky España
+Aplicación: Implementar desde el inicio un sistema de seguridad robusto para proteger todos los sensores, datos en la nube y aplicaciones ciudadanas.
+
+-Caso RA / RV: En el artículo “Quality 4.0” se menciona cómo RA/RV se usan para mejorar la calidad de procesos industriales y operativos. 
+arXiv
+Aplicación: Podríamos desarrollar una app de RA para que los ciudadanos vean en su móvil dónde están plazas libres, rutas sostenibles, o incluso simulaciones de cómo funcionará una nueva zona verde.
 
 ---
 
 ## 🧠 Reflexión final
 - ¿Qué tecnología aporta más valor a los productos/servicios?
+  Para SmartCity Sostenible, IA e IoT combinadas son las más valiosas: IoT para captar datos reales y en tiempo real, IA para analizarlos,   predecir y actuar.
+  
 - ¿Cuál genera mayor impacto sostenible?
+  Probablemente IoT + Big Data + IA juntas, porque permiten optimizar recursos (agua, movilidad), reducir emisiones y evitar desperdicios.
 - ¿Qué combinación sería más eficiente para la empresa?
+  Una combinación de IoT + Cloud + Big Data + IA, con una capa de ciberseguridad para proteger todo, sería muy potente. Si además añadimos   RA como interfaz para los ciudadanos, se mejora mucho la experiencia.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+https://www.telefonica.com/es/sala-comunicacion/prensa/global-omnium-telefonica-tech-se-unen-google-cloud-revolucionar-sector-agua-ia/?utm_source=chatgpt.com
+https://urbiotica.com/us/success-stories/?utm_source=chatgpt.com
+https://smartcitycluster.org/project/urbiotica/?utm_source=chatgpt.com
+https://www.iagua.es/noticias/global-omnium/global-omnium-y-telefonica-tech-se-unen-google-cloud-dar-salto-tecnologico?utm_source=chatgpt.com
+https://forbes.es/listas/229627/lista-forbes-una-empresa-espanola-entre-las-50-que-mejor-usan-blockchain-en-el-mundo/?utm_source=chatgpt.com
+https://www.kaspersky.es/about/press-releases/casi-la-mitad-de-las-empresas-utilizan-ia-e-iot-en-sus-negocios?utm_source=chatgpt.com
+https://arxiv.org/abs/1810.07829?utm_source=chatgpt.com
 
 
 
