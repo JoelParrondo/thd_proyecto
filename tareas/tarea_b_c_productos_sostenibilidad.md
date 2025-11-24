@@ -26,13 +26,13 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 
 | Tecnología | Ahorro energético | Reducción de residuos | Mejora operativa | Riesgos/limitaciones |
 |-----------|-------------------|-----------------------|------------------|----------------------|
-| IA |  | | | |
-| IoT | | | | |
-| Big Data | | | | |
-| Cloud | | | | |
-| Blockchain | | | | |
-| Ciberseguridad | | | | |
-| RA/RV | | | | |
+| IA | Permite optimizar procesos (p. ej., predicción de fugas de agua) para consumir menos | Menor desgaste de infraestructuras gracias a mantenimiento predictivo | Procesos más eficaces, decisiones informadas, capacidad predictiva | Sesgo de algoritmos, coste de implementación, necesidad de datos de calidad |
+| IoT | Sensores de bajo consumo (NB‑IoT, LoRaWAN) permiten monitorear sin gastar mucha energía | Evita sobreproducción o infrautilización (ej. plazas de aparcamiento vacías) | Datos en tiempo real, automatización, optimización del uso de recursos | Seguridad, gestión del gran volumen de datos, mantenimiento de sensores |
+| Big Data | Analizar grandes volúmenes permite identificar y eliminar ineficiencias energéticas | Identificar patrones para evitar desperdicios de capacidad | Mejora la planificación, permite precios dinámicos y medidas basadas en datos | Privacidad, coste del almacenamiento, complejidad en el análisis |
+| Cloud | Uso eficiente de recursos informáticos (escalado, optimización) | Menos hardware físico in situ => menos residuos electrónicos | Flexibilidad, agilidad, recuperación ante desastres, reducción de costes operativos | Dependencia del proveedor, consumo energético del centro de datos |
+| Blockchain | Potencial para optimizar procesos (contratos, pagos) sin intermediarios físicos | Transacciones digitales que sustituyen procesos en papel | Transparencia, trazabilidad, confianza | Consumo energético (según tipo de blockchain), complejidad técnica, escalabilidad |
+| Ciberseguridad | Al asegurar sistemas, se evita reinicios, pérdidas de datos y sobreequipamiento | Previene brechas que pueden suponer pérdidas masivas y residuos de sistemas | Protege la reputación, asegura continuidad, cumple regulaciones | Coste elevado, sofisticación de amenazas, necesidad de actualización constante |
+| RA/RV | Puede reducir desplazamientos físicos si se utiliza para simulaciones o visitas virtuales | Menos necesidad de material físico para formación o demostraciones | Mejora la experiencia y formación, permite simulaciones sin impacto físico | Requiere dispositivo, consumo de potencia en móviles/ordenadores, barrera de adopción |
 
 ---
 
@@ -56,6 +56,7 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
 
 
 
