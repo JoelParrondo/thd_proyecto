@@ -51,9 +51,8 @@ Aplicación: Instalar sensores en la ciudad para gestionar el aparcamiento, redu
 SmartCityCluster
 Aplicación: Recoger datos históricos de uso de aparcamiento + datos en tiempo real para predecir demanda, ajustar precios o planificar nuevas zonas.
 
-Caso Cloud: En la alianza Global Omnium / Telefónica / Google Cloud, migran su gestión hídrica a la nube, ganando escalabilidad y capacidad de análisis. 
+-Caso Cloud: En la alianza Global Omnium / Telefónica / Google Cloud, migran su gestión hídrica a la nube, ganando escalabilidad y capacidad de análisis. 
 iAgua
-
 Aplicación: Nuestra plataforma de datos urbanos podría correr sobre cloud para procesar toda la información de sensores con flexibilidad, mantener la infraestructura ligera y escalar según demanda.
 
 -Caso Blockchain: Si bien no hay un caso exacto de “ciudad inteligente + blockchain + parking/agua” citado, podemos inspirarnos en que Repsol desarrolla una “wallet” de identidad digital con blockchain. 
@@ -90,6 +89,7 @@ https://www.iagua.es/noticias/global-omnium/global-omnium-y-telefonica-tech-se-u
 https://forbes.es/listas/229627/lista-forbes-una-empresa-espanola-entre-las-50-que-mejor-usan-blockchain-en-el-mundo/?utm_source=chatgpt.com
 https://www.kaspersky.es/about/press-releases/casi-la-mitad-de-las-empresas-utilizan-ia-e-iot-en-sus-negocios?utm_source=chatgpt.com
 https://arxiv.org/abs/1810.07829?utm_source=chatgpt.com
+
 
 
 
