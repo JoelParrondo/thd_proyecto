@@ -11,7 +11,7 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA | | | | |
+| IA | Sistema de monitorización ecológica del agua | Global Omnium + Telefónica Tech + Google Cloud analizan vídeos submarinos con IA para vigilar praderas de posidonia. https://www.telefonica.com/es/sala-comunicacion/prensa/global-omnium-telefonica-tech-se-unen-google-cloud-revolucionar-sector-agua-ia/?utm_source=chatgpt.com | Permite detectar amenazas ambientales (p. ej. deterioro de la posidonia) y reaccionar rápido, lo que mejora la preservación del entorno y el servicio medioambiental | Mejora la sostenibilidad, reduce riesgos, mejora la reputación, optimiza el mantenimiento y la prevención |
 | IoT | | | | |
 | Big Data | | | | |
 | Cloud Computing | | | | |
@@ -56,5 +56,6 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
 
 
